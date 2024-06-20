@@ -1,0 +1,44 @@
+table{
+    width: 100%;
+    font-size: 18px;
+}
+
+
+.fifty{
+    padding: 30px 0px 0px !important;
+}
+.thirty{
+    width: 30%;
+    padding-left: 15px;
+}
+.content{
+    text-align: justify;
+}
+.transDownload{
+    text-align: right;
+    padding: 0px 40px;
+}
+.transFile{
+    border-right: 2px solid darkgray;
+}
+.transLanguages{
+    padding-top: 5px;
+}
+.transLanguages:hover, .transFile:hover{
+    cursor: pointer;
+    color: orange;
+}
+.filler{
+    padding: 15px 0px;
+}
+
+#fcolumn{
+    border-right: 2px solid darkgray;
+    padding: 0px;
+ }
+ #lcolumn{
+    padding: 0px 40px;
+    text-align: right;
+ }
+
+
